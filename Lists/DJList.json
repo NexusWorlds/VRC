@@ -1,0 +1,18 @@
+{
+  "UserInformation":{
+    "Name": "default", 
+    "Streaming": true,
+    "StreamURL": "https://www.youtube.com/watch?v=pE8RNHrVY6M",
+    "DJBooth-1024x1024": "",
+    "PosterLeft-1200x1800": "",
+    "PosterRight-1200x1800": ""
+  },
+    "UserInformation":{
+    "Name": "Neevel", 
+    "Streaming": false,
+    "StreamURL": "https://www.youtube.com/watch?v=LXEKuttVRIo",
+    "DJBooth-1024x1024": "",
+    "PosterLeft-1200x1800": "",
+    "PosterRight-1200x1800": ""
+  }
+}
